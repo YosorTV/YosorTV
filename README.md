@@ -67,7 +67,7 @@ const yevhenii = {
 </p>
 
 - **claude-agent-workflow**: reference implementation of the workflow above, with per-stack agent roles, hand-off contracts, quality gates that fail closed, and a working MCP server.
-- **kush-jewelry-front**: storefront of [KUSH Jewelry](https://www.kush.jewelry/en), a production e-commerce app on Next.js 15 + Strapi, with infrastructure in [kush-e-commerce-iac](https://github.com/YosorTV/kush-e-commerce-iac) (Terraform, Ansible, GitHub Actions).
+- **kush-jewelry-front**: storefront of [KUSH Jewelry](https://www.kush.jewelry/en), a production e-commerce app built freelance in 2024: Next.js 14 storefront on Vercel, Strapi backend on AWS, LiqPay checkout, Nova Post delivery and UA / EN localization.
 
 ### Products I've built
 
@@ -77,7 +77,7 @@ const yevhenii = {
 | **Bunker Suite** | Bunker-trading SaaS for brokers, traders and suppliers | Fullstack features on .NET (CQRS, event sourcing) and React 18, Playwright E2E |
 | **CYSafe** | Safety-management platform | Two Flutter apps shipped to the stores, React CRM portal on a .NET backend |
 | **Lenovo Studio AI** | Internal generative-AI content platform for Lenovo marketing | Frontend architecture, CopyAI integration |
-| **KUSH Jewelry** | [kush.jewelry](https://www.kush.jewelry/en) — DTC e-commerce for a Ukrainian handmade jewelry brand | Built it fullstack: Next.js 15, Strapi, DaisyUI, Cloudinary media, Resend emails, bilingual UA / EN |
+| **KUSH Jewelry** | [kush.jewelry](https://www.kush.jewelry/en): jewelry e-commerce (freelance, 2024) | Built it fullstack as sole developer: Next.js 14, Strapi, DaisyUI, Cloudinary, Resend, LiqPay, Nova Post, bilingual UA / EN; Vercel + AWS |
 | **Mallprix** | Multi-category retail e-commerce | Full rebuild: Next.js 14 to 16, Node.js + PostgreSQL + Docker backend |
 | **Ship.Link** | Global vessel-chartering marketplace | SSR marketing site on Strapi and a role-based SPA with SignalR |
 
