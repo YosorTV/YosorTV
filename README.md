@@ -55,15 +55,19 @@ const yevhenii = {
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
 </p>
 
-### Featured project
+### Featured projects
 
 <p align="center">
   <a href="https://github.com/YosorTV/claude-agent-workflow">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=YosorTV&repo=claude-agent-workflow&theme=transparent&title_color=7fd3dc&icon_color=7fd3dc&text_color=c9d1d9&border_color=1f3a40&show_owner=false" alt="claude-agent-workflow" />
   </a>
+  <a href="https://github.com/YosorTV/kush-jewelry-front">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YosorTV&repo=kush-jewelry-front&theme=transparent&title_color=7fd3dc&icon_color=7fd3dc&text_color=c9d1d9&border_color=1f3a40&show_owner=false" alt="kush-jewelry-front" />
+  </a>
 </p>
 
-Reference implementation of the workflow above: per-stack agent roles, hand-off contracts, quality gates that fail closed, and a working MCP server.
+- **claude-agent-workflow**: reference implementation of the workflow above, with per-stack agent roles, hand-off contracts, quality gates that fail closed, and a working MCP server.
+- **kush-jewelry-front**: storefront of [KUSH Jewelry](https://www.kush.jewelry/en), a production e-commerce app on Next.js 15 + Strapi, with infrastructure in [kush-e-commerce-iac](https://github.com/YosorTV/kush-e-commerce-iac) (Terraform, Ansible, GitHub Actions).
 
 ### Products I've built
 
@@ -80,8 +84,8 @@ Reference implementation of the workflow above: per-stack agent roles, hand-off 
 ### GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YosorTV&show_icons=true&include_all_commits=true&count_private=true&hide=stars,issues&theme=transparent&title_color=7fd3dc&icon_color=7fd3dc&text_color=c9d1d9&border_color=1f3a40" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YosorTV&layout=compact&langs_count=8&theme=transparent&title_color=7fd3dc&text_color=c9d1d9&border_color=1f3a40" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YosorTV&show_icons=true&include_all_commits=true&count_private=true&hide=stars,issues&hide_rank=true&theme=transparent&title_color=7fd3dc&icon_color=7fd3dc&text_color=c9d1d9&border_color=1f3a40" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YosorTV&layout=compact&langs_count=8&hide=css,html,scss,less&theme=transparent&title_color=7fd3dc&text_color=c9d1d9&border_color=1f3a40" alt="Top languages" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=YosorTV&theme=transparent&ring=7FD3DC&fire=7FD3DC&currStreakLabel=7FD3DC&sideLabels=C9D1D9&currStreakNum=E8F1F2&sideNums=E8F1F2&dates=8B949E&stroke=1F3A40&border=1F3A40" alt="Contribution streak" />
