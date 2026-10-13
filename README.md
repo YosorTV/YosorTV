@@ -59,10 +59,10 @@ const yevhenii = {
 
 <p align="center">
   <a href="https://github.com/YosorTV/claude-agent-workflow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YosorTV&repo=claude-agent-workflow&theme=transparent&title_color=7fd3dc&icon_color=7fd3dc&text_color=c9d1d9&border_color=1f3a40&show_owner=false" alt="claude-agent-workflow" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YosorTV&repo=claude-agent-workflow&theme=transparent&title_color=7fd3dc&icon_color=7fd3dc&text_color=c9d1d9&border_color=1f3a40&show_owner=false&description_lines_count=3" alt="claude-agent-workflow" />
   </a>
   <a href="https://github.com/YosorTV/kush-jewelry-front">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YosorTV&repo=kush-jewelry-front&theme=transparent&title_color=7fd3dc&icon_color=7fd3dc&text_color=c9d1d9&border_color=1f3a40&show_owner=false" alt="kush-jewelry-front" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YosorTV&repo=kush-jewelry-front&theme=transparent&title_color=7fd3dc&icon_color=7fd3dc&text_color=c9d1d9&border_color=1f3a40&show_owner=false&description_lines_count=3" alt="kush-jewelry-front" />
   </a>
 </p>
 
