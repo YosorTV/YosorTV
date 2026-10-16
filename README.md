@@ -1,13 +1,14 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Yevhenii Alieksandrov, Senior Fullstack AI Engineer" />
+<img src="./assets/header.svg" width="100%" alt="Yevhenii Alieksandrov, Senior Frontend Engineer" />
 
 <a href="https://github.com/YosorTV">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=7FD3DC&center=true&vCenter=true&width=760&lines=Fullstack%3A+React+%2F+Next.js+%C2%B7+.NET+%C2%B7+Node.js+%C2%B7+Flutter;Agent-orchestrated+dev+workflows+on+Claude+Code+%2B+MCP;80-90%25+of+our+team's+code+is+AI-assisted;Maritime+SaaS+%C2%B7+B2B+platforms+%C2%B7+Safety-tech" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=7FD3DC&center=true&vCenter=true&width=760&lines=Frontend%3A+React+%C2%B7+Next.js+%C2%B7+TypeScript;Fullstack+delivery+with+AI+agents%3A+.NET+%C2%B7+Node.js;Agent-orchestrated+dev+workflows+on+Claude+Code+%2B+MCP;80-90%25+of+our+team's+code+is+AI-assisted;Maritime+SaaS+%C2%B7+B2B+platforms+%C2%B7+Safety-tech" alt="Typing intro" />
 </a>
 
 <br/>
 
+<a href="https://alieksandrov.dev"><img src="https://img.shields.io/badge/Portfolio-alieksandrov.dev-C9A86A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/yevhenii-alieksandrov/"><img src="https://img.shields.io/badge/LinkedIn-yevhenii--alieksandrov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:yosorit@gmail.com"><img src="https://img.shields.io/badge/Email-yosorit%40gmail.com-0f6b75?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <img src="https://img.shields.io/badge/Open_to-Remote_%C2%B7_EU_relocation-1f7f8a?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Open to remote and EU relocation" />
@@ -20,9 +21,10 @@
 
 ```ts
 const yevhenii = {
-  role: "Senior Fullstack AI Engineer",
+  role: "Senior Frontend Engineer",
+  focus: "Frontend core, fullstack delivery with AI agents",
   experience: "7+ years in production web & mobile",
-  basedIn: "Dnipro, Ukraine — open to remote and EU relocation",
+  basedIn: "Dnipro, Ukraine, open to remote and EU relocation",
   buildsWith: {
     frontend: ["React", "Next.js", "TypeScript", "Zustand", "Mantine", "AG Grid"],
     backend: [".NET / C#", "Node.js", "PostgreSQL", "Azure SQL", "SignalR", "GraphQL"],
